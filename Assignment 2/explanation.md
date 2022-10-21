@@ -10,7 +10,7 @@
     target value found at index 8
 
 - This uses the classic binary search.
-- An unsorted array can be used; qsort() ensures that it will be sorted, one of the prerequisites of binary search.
+- An unsorted array can be used; qsort() ensures that it will be sorted.
 - Then, binary search will commence with the key value.
 - The debug messages above illustrate the binary search algorithm. Observe that the search set is incrementally narrowed and the pivot point is reset to the middle.
 - If the value was not found at the predicted location, it would alert the user.
