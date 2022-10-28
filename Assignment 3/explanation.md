@@ -8,7 +8,7 @@
     Insert: 0 ms 
     Sort failure: 5, 2
 
-- I have printed the array before and after insertion sort to illustrate that the array functions as intended. It is not clear to me why this is considered a failure.
+Insert sort has taken 0ms for this run. Additionally I added a before-and-after view of the array for debugging.
 
 ### Code
 ~~~
