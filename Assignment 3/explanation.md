@@ -2,6 +2,7 @@
 
 ## sort.cc
 
+### Output
     5 7 9 2 6 4 0 3 8 1 
     0 1 2 3 4 5 6 7 8 9 
     Insert: 0 ms 
@@ -9,6 +10,7 @@
 
 - I have printed the array before and after insertion sort to illustrate that the array functions as intended. It is not clear to me why this is considered a failure.
 
+### Code
 ~~~
 int svindex = 1;
 while(svindex < (int)array.size()) {
