@@ -1,0 +1,2 @@
+- To make: make clean all
+- To run: ./program_name (w/o .c extension)
